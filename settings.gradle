@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "WanAndroidComposePractice"
 include ':app'
+include ':net'
+include ':common'
