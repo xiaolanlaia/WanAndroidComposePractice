@@ -1,7 +1,7 @@
 buildscript {
     ext {
         compose_version = '1.1.0-beta01'
-        application_id = "com.linx.playAndroid"
+        application_id = "com.example.wanandroidcomposepractice"
         compile_sdk_version = 30
         min_sdk_version = 21
         target_sdk_version = 30
