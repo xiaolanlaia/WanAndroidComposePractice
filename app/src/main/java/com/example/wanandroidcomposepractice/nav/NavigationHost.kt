@@ -16,6 +16,7 @@ import coil.annotation.ExperimentalCoilApi
 import com.example.common.baseData.Nav
 import com.example.common.widget.TwoBackFinish
 import com.example.wanandroidcomposepractice.composable.*
+import com.example.wanandroidcomposepractice.composable.home.HomeCompose
 import com.example.wanandroidcomposepractice.widget.StatsBarUtil
 import com.google.accompanist.pager.ExperimentalPagerApi
 
